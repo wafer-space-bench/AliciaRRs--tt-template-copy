@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/AliciaRRs/tt-template-copy
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26a
+  slot: tt_um_wokwi_465731458535202817
+  project: Tiny Tapeout Template Copy
+  size: 1x1
+  kind: digital (Wokwi)
+  commit: 5cba059cad6c71b8972c82feda4b745e609c30a4
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26a/tt_um_wokwi_465731458535202817
+  branch: tapeout/tinytapeout/ttgf26a/tt_um_wokwi_465731458535202817
+  page: https://app.tinytapeout.com/shuttles/ttgf26a
+generated: '2026-10-17T23:06:08Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26a/tt_um_wokwi_465731458535202817
+- upstream/main
